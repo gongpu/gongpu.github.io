@@ -6,6 +6,7 @@ title: Git Handbook
 从官网下载git，安装到本地window 7系统上，见识一下git的魅力，全指令输入是，命令行的模式，特别是gitbash 里面有各种指令，功能强大，我在想如果做成界面，那要需要多少界面，由此可见其指令之多，功能强大。
 git的原理是分支，主分支和分支，本机做好的代码，提交到本地分支，然后提交到主分支，可以合并主分支。
 分布式的版本控制加上指令的交互，用着很舒服。
+
 1. 本机git使用
 安装window版本的git后，开始操作，启动gitbash.ext,进入命令行
 创建新目录learngit,进入此目录
@@ -28,6 +29,7 @@ ssh -vT git@github.com  检查是否能用ssh和github通信
 git remote add origin git@github.com:gongpu/learngit.git(修改成自己的github仓库)   添加远程仓库
 git push origin master  提交到主分支（常用）
 git clone git@github.com:gongpu/learngit.git 从远程仓库克隆一份代码到本地（常用),git的仓库千千万万，浏览和学习别人的代码，会很受益的。
+
 
 3.git分支的操作
 git brancn 查看分支 (常用)
