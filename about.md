@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi,I'm micheal,this is my blog on github.com.
-I'm tring to use github to manage my code and write someting about java developer
+I'm tring to use github to manage my code and write someting about java developeor.
 
 ### More Information
 
