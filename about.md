@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,I'm micheal,this is my blog on github.com.
+I'm tring to use github to manage my code and write someting about java developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I like hiking,travling,writing,reading,take photo by phone and share with others.
+My favorite sports are football,yoga.
+Now I works in an internet company.
+My development language is java and python,and I have a [website](http://youyizy.com) to discuss quesiton with friends.
 
 ### Contact me
 
