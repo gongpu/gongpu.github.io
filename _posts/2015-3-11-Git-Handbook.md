@@ -1,6 +1,6 @@
 ---
-layout:page
-title:Git Handbook
+layout: page
+title: Git Handbook
 ---
 
 从官网下载git，安装到本地window 7系统上，见识一下git的魅力，全指令输入是，命令行的模式，特别是gitbash 里面有各种指令，功能强大，我在想如果做成界面，那要需要多少界面，由此可见其指令之多，功能强大。
