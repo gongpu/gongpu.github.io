@@ -85,7 +85,7 @@ git branch --set-upstream dev origin/dev
 
 git2.0新指令 git branch --set-upstream-to dev origin/dev
 
-git pull拿下来最新打代码
+git pull拿下来最新的代码
 
 手动解决冲突后，git push提交代码
 
