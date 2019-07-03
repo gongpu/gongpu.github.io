@@ -19,7 +19,7 @@ Question list：
 
 5.Check out your code from repository.
 
-6.Use git,like right button in your idea,git add|git commit|git push your code.
+6.Use git,like right button in your idea,git add & git commit & git push your code.
 
    -- 6.1 change your github account,modify Windows system certificate,delete other's github account.
    
