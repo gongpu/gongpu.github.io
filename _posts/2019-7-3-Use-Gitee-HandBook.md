@@ -22,5 +22,5 @@ Question list：
 6.Use git,like right button in your idea,git add|git commit|git push your code.
 
    -- 6.1 change your github account,modify Windows system certificate,delete other's github account.
-   
+   -- 6.2 Jenkins integrate gitee， use account and password
 7.Finish.
